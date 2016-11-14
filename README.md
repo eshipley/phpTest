@@ -1,0 +1,2 @@
+# phpTest
+Testing OpenShift
